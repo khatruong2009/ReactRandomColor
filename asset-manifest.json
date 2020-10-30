@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactRandomColor/static/css/main.72a5e26d.chunk.css",
+    "main.js": "/ReactRandomColor/static/js/main.db421cfd.chunk.js",
+    "main.js.map": "/ReactRandomColor/static/js/main.db421cfd.chunk.js.map",
+    "runtime-main.js": "/ReactRandomColor/static/js/runtime-main.5b963ba3.js",
+    "runtime-main.js.map": "/ReactRandomColor/static/js/runtime-main.5b963ba3.js.map",
+    "static/js/2.a6f9a101.chunk.js": "/ReactRandomColor/static/js/2.a6f9a101.chunk.js",
+    "static/js/2.a6f9a101.chunk.js.map": "/ReactRandomColor/static/js/2.a6f9a101.chunk.js.map",
+    "static/js/3.214525b3.chunk.js": "/ReactRandomColor/static/js/3.214525b3.chunk.js",
+    "static/js/3.214525b3.chunk.js.map": "/ReactRandomColor/static/js/3.214525b3.chunk.js.map",
+    "index.html": "/ReactRandomColor/index.html",
+    "static/css/main.72a5e26d.chunk.css.map": "/ReactRandomColor/static/css/main.72a5e26d.chunk.css.map",
+    "static/js/2.a6f9a101.chunk.js.LICENSE.txt": "/ReactRandomColor/static/js/2.a6f9a101.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b963ba3.js",
+    "static/js/2.a6f9a101.chunk.js",
+    "static/css/main.72a5e26d.chunk.css",
+    "static/js/main.db421cfd.chunk.js"
+  ]
+}
