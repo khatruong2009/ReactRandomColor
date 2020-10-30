@@ -1,10 +1,13 @@
 import React from 'react';
 
-const Color = () => {
+const Color = (props) => {
   return (
-    <div>
-      <h1>Random Color Generator</h1>
-      <button>New Color</button>
+    <div className="container">
+      <div className="content">
+        <h1>Random Color Generator</h1>
+        <p>Color hex value is #{props.color}</p>
+        <button onClick={props.handleClick}>New Color</button>
+      </div>
     </div>
   )
 }
